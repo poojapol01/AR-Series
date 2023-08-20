@@ -799,7 +799,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cb9bdae6aa1fa8e4b93faa07a9d5bf11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spwan_Prefab: {fileID: 0}
+  spwan_Prefab: {fileID: 2171766448178854769, guid: 75654368cbb98144c8d2ff58c10edd53,
+    type: 3}
 --- !u!114 &1659859602
 MonoBehaviour:
   m_ObjectHideFlags: 0
