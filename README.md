@@ -49,3 +49,10 @@ AR has a wide range of applications across various industries. Some common use c
 **Navigation and Wayfinding:** AR can assist users in navigating their surroundings by overlaying directions, points of interest, and real-time information onto their field of view. This technology is particularly useful in complex indoor environments like airports, shopping malls, or museums.
 
 **Virtual Try-On in Retail:** AR enables virtual try-on experiences, allowing customers to visualize how clothing, accessories, or cosmetics will look on them without physically trying them on. This enhances the online shopping experience and reduces returns.
+
+
+## Screen Captures:
+**AR Plane Tracking:**
+
+https://github.com/poojapol01/AR-Series/assets/69631505/d6c15cf2-665f-4ce5-8a13-42a8e39d49a9
+
